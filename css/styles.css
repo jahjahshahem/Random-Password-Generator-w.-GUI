@@ -84,6 +84,12 @@ button:active{
     background-color: brown;
 }
 
+#result {
+    font-weight: bold;
+    animation-name: fadeIn;
+    animation-duration: 1s;
+}
+
 
 
 footer {
